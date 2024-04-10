@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 67,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "VG",
+      "title": "Guro Reiten visste ikke hvem landslagssjefen Gemma Grainger var - VG",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnZnLm5vL3Nwb3J0L2ZvdGJhbGwvaS80b25XeXEvZ3Vyby1yZWl0ZW4tdmlzc3RlLWlra2UtaHZlbS1sYW5kc2xhZ3NzamVmZW4tZ2VtbWEtZ3JhaW5nZXItdmFy0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T15:51:22Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Nettavisen",
+      "title": "Ble forbauset da Marcus Rashford tok kontakt: – Hadde ikke trengt det - Nettavisen",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3Lm5ldHRhdmlzZW4ubm8vc3BvcnQvYmxlLWZvcmJhdXNldC1kYS1tYXJjdXMtcmFzaGZvcmQtdG9rLWtvbnRha3QtaGFkZGUtaWtrZS10cmVuZ3QtZGV0L3MvNS05NS0xNzM3ODc30gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T15:24:43Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Eurosport NO",
+      "title": "Vingegaard, Roglic og Evenepoel ned i grusom velt: – En av de styggere veltene jeg har sett - Eurosport NO",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5ldXJvc3BvcnQubm8vc3lra2VsL2l0enVsaWEtYmFzcXVlLWNvdW50cnkvMjAyNC92aW5nZWdhYXJkLXJvZ2xpYy1vZy1ldmVuZXBvZWwtbmVkLWktZ3J1c29tLXZlbHQtZW4tYXYtZGUtc3R5Z2dlcmUtdmVsdGVuZS1qZWctaGFyLXNldHRfc3RvMjAwMDE3OTAvc3Rvcnkuc2h0bWzSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T15:06:29Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Bergensavisen",
+      "title": "(+) Bekymret for fremtiden utenfor Stadion: – Vi har ingen alternativer - Bergensavisen",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJhLm5vL2Jla3ltcmV0LWZvci1mcmVtdGlkZW4tdXRlbmZvci1zdGFkaW9uLXZpLWhhci1pbmdlbi1hbHRlcm5hdGl2ZXIvcy81LTgtMjU4MDc4M9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T14:52:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "ABC Nyheter",
+      "title": "Brytesporten utestenger regjerende OL-mester etter krigsstøtte - ABC Nyheter",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmFiY255aGV0ZXIubm8vbnloZXRlci9zcG9ydC8yMDI0LzA0LzA0LzE5NTk5MzQzMC9icnl0ZXNwb3J0ZW4tdXRlc3Rlbmdlci1yZWdqZXJlbmRlLW9sLW1lc3Rlci1ldHRlci1rcmlnc3N0b3R0ZdIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T14:35:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Avisa Nordland",
+      "title": "(+) Daniel om Glimt-overgangen: – Jeg er her for å hjelpe til - Avisa Nordland",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmFuLm5vL2RhbmllbC1vbS1nbGltdC1vdmVyZ2FuZ2VuLWplZy1lci1oZXItZm9yLWEtaGplbHBlLXRpbC9zLzUtNC0xOTM4NzM00gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T14:34:35Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Fredrikstad Blad",
+      "title": "(+) Her er den nye Stjernen-trenerens første signering - Fredrikstad Blad",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmYtYi5uby9oZXItZXItZGVuLW55ZS1zdGplcm5lbi10cmVuZXJlbnMtZm9yc3RlLXNpZ25lcmluZy9zLzUtNTktMzI1MDc2NtIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T13:53:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Nettavisen",
+      "title": "Lise Klaveness, Brann | NRK: Fotballpresident Lise Klaveness ut mot Uefas Brann-bot - Nettavisen",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm5ldHRhdmlzZW4ubm8vc3BvcnQvbnJrLWZvdGJhbGxwcmVzaWRlbnQtbGlzZS1rbGF2ZW5lc3MtdXQtbW90LXVlZmFzLWJyYW5uLWJvdC9zLzUtOTUtMTc0MTA0MNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T13:25:36Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Liverpool.no",
+      "title": "– Målforskjell? Nei, vi bryr oss bare om å vinne kampen - Liverpool.no",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmxpdmVycG9vbC5uby9ueWhldGVyLzIwMjQvNC9tYWFsZm9yc2tqZWxsLW5laS12aS1icnlyLW9zcy1iYXJlLW9tLWFhLXZpbm5lLWthbXBlbi_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T13:25:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Hamar Arbeiderblad",
+      "title": "(+) Dette er status for Dahl etter MR-bilde-svar - Hamar Arbeiderblad",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3LmgtYS5uby9kZXR0ZS1lci1zdGF0dXMtZm9yLWRhaGwtZXR0ZXItbXItYmlsZGUtc3Zhci9zLzUtMTM5LTE0NTM3NDXSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T13:24:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "VG",
+      "title": "Saudi-Arabia sikret seg WTA-finalen – pengepremiene skyter i været - VG",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnZnLm5vL3Nwb3J0L2kvS25FZUJvL3NhdWRpLWFyYWJpYS1zaWtyZXQtc2VnLXd0YS1maW5hbGVuLXBlbmdlcHJlbWllbmUtc2t5dGVyLWktdmFlcmV00gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T12:23:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Sarpsborg Arbeiderblad",
+      "title": "Sparta Sarpsborg, Spor | Sparta vant kampen om attraktiv poengplukker - Sarpsborg Arbeiderblad",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnNhLm5vL3NwYXJ0YS12YW50LWthbXBlbi1vbS1hdHRyYWt0aXYtcG9lbmdwbHVra2VyL3MvNS00Ni0xNjE3NTk40gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T12:06:13Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "VG",
+      "title": "Sebastian Vettel utelukker ikke at han kan komme tilbake i Formel 1 - i det ledige setet til Mercedes. - VG",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy52Zy5uby9zcG9ydC9tb3RvcnNwb3J0L2kvMkJNYkpHL3NlYmFzdGlhbi12ZXR0ZWwtdXRlbHVra2VyLWlra2UtYXQtaGFuLWthbi1rb21tZS10aWxiYWtlLWktZm9ybWVsLTEtaS1kZXQtbGVkaWdlLXNldGV0LXRpbC1tZXJjZWRlc9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T12:04:21Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Eurosport NO",
+      "title": "I stabil tilstand etter kollisjon med bil: – I stand til å kommunisere - Eurosport NO",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmV1cm9zcG9ydC5uby9zeWtrZWwvaS1zdGFiaWwtdGlsc3RhbmQtZXR0ZXIta29sbGlzam9uLW1lZC1iaWwtaS1zdGFuZC10aWwtYS1rb21tdW5pc2VyZV9zdG8yMDAwMTc1Ny9zdG9yeS5zaHRtbNIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T11:56:35Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Oppland Arbeiderblad",
+      "title": "(+) Bonden Marius (26) fyrer tilbake før storkampen: – Viktig at også bykarene får i seg ordentlig mat - Oppland Arbeiderblad",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifmh0dHBzOi8vd3d3Lm9hLm5vL2JvbmRlbi1tYXJpdXMtMjYtZnlyZXItdGlsYmFrZS1mb3Itc3RvcmthbXBlbi12aWt0aWctYXQtb2dzYS1ieWthcmVuZS1mYXItaS1zZWctb3JkZW50bGlnLW1hdC9zLzUtMzUtMTkxNDYyM9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T11:55:55Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Aftenbladet.no",
+      "title": "Viking tatt på sengen: – Vi håpet å slippe unna - Aftenbladet.no",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmFmdGVuYmxhZGV0Lm5vL3Nwb3J0L2kvdmVFOEJwL3Zpa2luZy10YXR0LXBhYS1zZW5nZW4tdmktaGFhcGV0LWFhLXNsaXBwZS11bm5h0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T11:47:02Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Firda",
+      "title": "(+) Fann ingen til å ta over. Då tok pliktkjensla Finn - Firda",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmZpcmRhLm5vL2Zhbm4taW5nZW4tdGlsLWEtdGEtb3Zlci1kYS10b2stcGxpa3RramVuc2xhLWZpbm4vcy81LTE1LTE3MTI2NzbSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T11:34:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NRK",
+      "title": "Stoppa stemne etter korrupsjonsmistanke – skaper trøbbel for norsk OL-håp - NRK",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3Lm5yay5uby9zcG9ydC9zdG9wcGEtc3RlbW5lLWV0dGVyLWtvcnJ1cHNqb25zbWlzdGFua2UtXy1za2FwZXItdHJvYmJlbC1mb3Itbm9yc2stb2wtaGFwLTEuMTY4Mjc4MDjSAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T11:21:09Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Haugesunds Avis",
+      "title": "(+) Adrian (24) reiste seg fra solsenga – så tok det helt av - Haugesunds Avis",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmgtYXZpcy5uby9hZHJpYW4tMjQtcmVpc3RlLXNlZy1mcmEtc29sc2VuZ2Etc2EtdG9rLWRldC1oZWx0LWF2L3MvNS02Mi0xNjgzMDIy0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T11:15:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "VG",
+      "title": "Alpint: Simen Sellæg tok NM-gullet i utfor - VG",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LnZnLm5vL3Nwb3J0L2FscGludC9pL0dNdmU5US91bmctb3Nsby1ndXR0LXRvay1ubS1ndWxsZXQtaS11dGZvctIBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-04-04T11:10:06Z",
+      "content": null
+    }
+  ]
+}

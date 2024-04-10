@@ -1,0 +1,3 @@
+newsapiorg:
+  url: http://localhost:9090
+  apikey: testApiKey

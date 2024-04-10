@@ -1,0 +1,17 @@
+{
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "VG",
+      "title": "Guro Reiten visste ikke hvem landslagssjefen Gemma Grainger var - VG",
+      "description": "example description",
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnZnLm5vL3Nwb3J0L2ZvdGJhbGwvaS80b25XeXEvZ3Vyby1yZWl0ZW4tdmlzc3RlLWlra2UtaHZlbS1sYW5kc2xhZ3NzamVmZW4tZ2VtbWEtZ3JhaW5nZXItdmFy0gEA?oc=5",
+      "urlToImage": "http://localhost/imageUrl",
+      "publishedAt": "2024-04-04T15:51:22Z",
+      "content": "example content"
+    }
+  ]
+}

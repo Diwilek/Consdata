@@ -1,0 +1,27 @@
+<div class="container" *ngIf="apiResponse$ | async as apiResponse">
+  <div class="grid-container">
+    <div class="card" *ngFor="let item of apiResponse.articles; let i = index">
+      <div class="card-content">
+        <img [src]="item.imageUrl" class="card-img-top" alt="...">
+        <div class="text-container">
+          <h5 class="card-title">{{ item.title }}</h5>
+          <p class="card-text">{{ item.description }}</p>
+        </div>
+      </div>
+      <div class="card-footer">
+        <div class="footer-item">{{ item.date }}</div>
+        <div class="footer-item">{{ item.author }}</div>
+        <div class="footer-item">{{ item.sourceName }}</div>
+      </div>
+      <div class="button-container">
+        <button class="read-more-button">Czytaj więcej</button>
+      </div>
+    </div>
+  </div>
+</div>
+<div *ngIf="!(apiResponse$ | async)"  class="modal-overlay">
+  <div class="modal">
+    <p>Wystąpił błąd połączenia z serwerem. Żądanie nie może zostać zrealizowane</p>
+    <button (click)="closeModal()">Zamknij</button>
+  </div>
+</div>

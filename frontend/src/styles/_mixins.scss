@@ -1,0 +1,13 @@
+@import 'rwd';
+
+@mixin tablet() {
+    @media (min-width: $layout-breakpoint-tablet + 1px) and (max-width: $layout-breakpoint-desktop) {
+        @content;
+    }
+}
+
+@mixin desktop() {
+    @media (min-width: $layout-breakpoint-desktop + 1px) {
+        @content;
+    }
+}
